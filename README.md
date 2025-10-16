@@ -2,7 +2,6 @@
 
 This project presents a comprehensive analysis of road accident data, visualized through an interactive dashboard. The primary goal is to identify patterns, trends, and key factors contributing to road accidents to derive actionable insights for improving road safety.
 
-
 ## 📊 Dashboard Overview
 
 The dashboard provides a multi-faceted view of road accident data, focusing on casualties. It features a range of visualizations and KPIs:
